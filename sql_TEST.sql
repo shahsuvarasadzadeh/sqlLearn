@@ -1,0 +1,2 @@
+ALTER SCHEMA `test_db`  DEFAULT CHARACTER SET utf8  
+DEFAULT COLLATE utf8_general_mysql500_ci ;

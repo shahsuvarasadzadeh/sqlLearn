@@ -1,0 +1,1 @@
+SELECT count(DISTINCT user_Name) from test;
